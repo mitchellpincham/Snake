@@ -1,0 +1,23 @@
+square size (px) (def: 15) (big: 30)
+15
+
+grid width (amount of squares) (def: 60) (big: 30)
+60
+
+grid height (amount of squares) (def: 60) (big: 30)
+60
+
+fps (speed of snake) (def: 15) (big: 10)
+15
+
+start length (length of snake at start) (def: 5)
+5
+
+growth (amount grown when apple is eaten) (def: 5)
+5
+
+big apple growth (for purple apples) (def: 10)
+10
+
+big apple change (percentage) (def: 10)
+10
